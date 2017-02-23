@@ -22,7 +22,7 @@ Hardwares Used:
 
 ##GUI Photos of hardware
 ![alt tag](https://github.com/JXproject/Arduino_Music_Piano_Synthesizer/blob/master/Pictures/IMG_7909.JPG)
-![alt tag](https://github.com/JXproject/Arduino_Music_Piano_Synthesizer/blob/master/Pictures/IMG_7930.JPGs)
+![alt tag](https://github.com/JXproject/Arduino_Music_Piano_Synthesizer/blob/master/Pictures/IMG_7930.JPG)
 
 ##WIN 2nd Place for IEEE hackathon
 ![alt tag](https://github.com/JXproject/Arduino_Music_Piano_Synthesizer/blob/master/Pictures/IMG_7933.JPG)
