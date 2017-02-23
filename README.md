@@ -7,7 +7,7 @@ This piano systhesizer is controlled by 8 buttons with 256 combos  but only outp
 - All combos can be programmable with music nodes. 
 - Used r2r ladder DAC in order to minimize inputs used (only 1 input), make programming easier and make it possible to detect key pressed without any delay. (No need for shift register nor 8 individual Digital Input but one analog input).
 
-In addition, 2 potentiometers are used for controlling upper and lower frequency bounds. Meanwhile, 2 black buttons(software enabled latch system) function as record and play button. The wireless control module on right side is used for controlling pitch, delay, and MUTE during playing.
+## In addition, 2 potentiometers are used for controlling upper and lower frequency bounds. Meanwhile, 2 black buttons(software enabled latch system) function as record and play button. The wireless control module on right side is used for controlling pitch, delay, and MUTE during playing.
 
 Hardwares Used:
 - 1. nRF24L01+ 2.4GHz wireless module x 2
